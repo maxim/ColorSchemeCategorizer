@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "UI: Select Color Scheme: Dark",
+        "command": "color_schemes_categorize",
+        "args": {"category": "dark"}
+    },
+    {
+        "caption": "UI: Select Color Scheme: Light",
+        "command": "color_schemes_categorize",
+        "args": {"category": "light"}
+    }
+]
